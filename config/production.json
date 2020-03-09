@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://yanto3528:minato3528@contactkeeper-gczwc.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
